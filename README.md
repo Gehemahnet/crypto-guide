@@ -2,3 +2,4 @@
 # 2. [Словарь](guide-pages/dictionary.md)
 # 3. [DEPIN](guide-pages/depin.md)
 # 4. [Тестнеты](guide-pages/testnet.md)
+# 5. [Квесты](guide-pages/quest.md)
